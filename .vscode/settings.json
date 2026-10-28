@@ -51,5 +51,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "asteroid_unity.sln"
+    "dotnet.defaultSolution": "asteroid_unity-1.sln",
+    "dotnet.preferCSharpExtension": true
 }
